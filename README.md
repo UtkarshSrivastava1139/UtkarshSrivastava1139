@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m CS undergraduate with a passion for tech and innovation.<br>🧑‍💻 Proficient in Python, HTML, CSS, C, MATLAB, SQL etc.<br>🎨 Skilled in UI/UX design using Figma and Adobe.<br>✏️ Graphic design experience with Adobe and Corel.<br>🚀 Developed ClubVerse App prototype.<br>📁 Completed multiples website projects showcasing creativity and skills<br>👯 I’m looking to collaborate on Frontend Development.<br>🌱 I’m currently learning Data structures and Algorithm<br>🎓 Currently pursuing a B. Tech degree in Computer Science.
+🔭 I’m CS undergraduate with a passion for tech and innovation.<br>🧑‍💻 Proficient in Python, HTML, CSS, C, MATLAB, SQL etc.<br>🎨 Skilled in UI/UX design using Figma and Adobe.<br>✏️ Graphic design experience with Adobe and Corel.<br>🚀 Participated in multiple Hackathons, Events, etc. <br>📁 Completed multiples website projects showcasing creativity and skills<br>👯 I’m looking to collaborate on Frontend Development.<br>🌱 I’m currently learning Data structures and Algorithm<br>🎓 Currently pursuing a B. Tech degree in Computer Science.
 
 
 ## 🌐 Socials:
