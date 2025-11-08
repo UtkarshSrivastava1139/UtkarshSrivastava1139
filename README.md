@@ -104,20 +104,6 @@ I’m passionate about merging **AI, design, and full-stack development** to cre
 
 ---
 
-## 📊 **GitHub Stats & Activity**
-
-![Utkarsh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshsri1139&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsri1139&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarshsri1139&theme=radical&hide_border=true)
-
----
-
-## 🏆 **GitHub Trophies**
-
-![trophy](https://github-profile-trophy.vercel.app/?username=utkarshsri1139&theme=radical&margin-w=8&margin-h=8)
-
----
-
 ## ✍️ **Dev Quote of the Day**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
