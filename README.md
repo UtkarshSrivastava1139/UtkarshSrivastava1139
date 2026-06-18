@@ -91,7 +91,7 @@ I’m passionate about merging **AI, design, and full-stack development** to cre
 - 🏛️ **e-Nivaran** – Civic-tech platform using YOLOv8, NLP & geo-tagging for smart issue resolution.  
 - 🌱 **ROOTS** – AI-integrated sustainability platform promoting eco-friendly actions.  
 
-*(More on → [utkarshsrivastava.me](https://utkarshsrivastava.me))*
+*(More on → [utkarshsrivastava.me](https://utkarshsrivastava.tech))*
 
 ---
 
