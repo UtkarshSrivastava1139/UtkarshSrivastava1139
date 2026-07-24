@@ -1,114 +1,298 @@
-# 👋 Hey, I’m **Utkarsh Srivastava**
+<div align="center">
 
-> 💻 *Full Stack Developer | AI Innovator | Data Science Enthusiast*  
-> Crafting meaningful digital experiences through **code, design, and creativity.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:7f5af0&text=Utkarsh%20Srivastava&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Builder&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" />
 
----
+<br/>
 
-## 🌟 **About Me**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems.;Backend+Engineering+%7C+Full-Stack+Development+%7C+AI+Integration.;Always+learning.+Always+building." />
 
-Hi there! I’m **Utkarsh Srivastava**, a **Computer Science undergraduate specializing in Data Science** at **JSS University, Noida**.  
-I’m passionate about merging **AI, design, and full-stack development** to create **scalable, intelligent, and user-centric solutions**.
+<br/><br/>
 
-- 🎓 **CSE Sophomore** | JSS University, Noida  
-- 🧠 Exploring **Agentic AI**, **Generative AI**, and **Sustainability-driven tech innovation**  
-- 💡 Developer by choice, Designer by passion  
-- 🚀 Building with **MERN**, **Next.js**, and **TypeScript**  
-- 🎯 Open to internships, open-source contributions, and research collaborations  
+<a href="https://utkarshsrivastava.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-> *"Code is logic, design is emotion — I bring both together to build impact."*
+<a href="https://linkedin.com/in/utkarshsri1139">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:utkarshsri1139@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🛠️ **Tech Stack & Tools**
+<a href="https://github.com/utkarshsri1139">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### ⚡ **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=utkarshsri1139&style=for-the-badge&color=7C3AED"/>
+
+</div>
 
 ---
 
-### 🔧 **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+# 👋 Hey, I'm Utkarsh
+
+I'm a **Software Engineering student** passionate about building scalable **backend systems**, modern **full-stack applications**, and **AI-powered products** that solve real-world problems.
+
+I enjoy turning ideas into production-ready software—from designing APIs and databases to crafting intuitive user experiences. My focus is on writing clean, maintainable code while continuously improving my understanding of software architecture and system design.
+
+Currently, I'm exploring how **AI can enhance software products** in meaningful ways rather than being added just for the sake of it.
 
 ---
 
-### 🤖 **AI / Data Science**
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-%23000000.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%230A84FF.svg?style=for-the-badge&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## 🚀 What I'm Focused On
+
+- ⚙️ Backend Engineering
+- 🌐 Full-Stack Web Development
+- 🤖 AI Integration into Products
+- 🏗️ System Design & Scalable Architectures
+- 💡 Building Projects That People Actually Use
+- 🌱 Open Source Contributions
 
 ---
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel&theme=dark"/>
+
+</div>
 
 ---
 
-### 🎨 **UI/UX & Design**
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 💜 A Few Things About Me
+
+```text
+💻 I enjoy building products more than just completing projects.
+
+⚡ Backend engineering excites me the most.
+
+🚀 Currently preparing for Software Engineering internships.
+
+🌱 Learning System Design, Cloud Technologies & Advanced Backend.
+
+🎯 Goal: Build software that is scalable, reliable and genuinely useful.
+```
 
 ---
 
-### 🧰 **Development Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 ROOTS
+AI-powered sustainability platform that verifies eco-friendly actions using Computer Vision and rewards users through gamification.
+
+**Highlights**
+- 🧠 YOLOv8-based image verification
+- 📊 Real-time analytics dashboard
+- 🔐 Secure authentication
+- 🌍 IEEE YESIST12 Global Finalist
+
+**Tech**
+`Next.js` `Node.js` `MongoDB` `YOLOv8` `TypeScript`
+
+[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_REPO)
+
+</td>
+
+<td width="50%">
+
+### 🏙 e-Nivaran
+An AI-powered civic issue reporting platform that automates complaint classification and routing using Computer Vision and NLP.
+
+**Highlights**
+- 🤖 AI-based complaint classification
+- 📍 Smart department routing
+- 💬 WhatsApp tracking integration
+- 🏆 Top 30 — Hack4Delhi 2026
+
+**Tech**
+`Next.js` `Node.js` `MongoDB` `YOLOv8` `NLP`
+
+[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_REPO)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 Event Portal
+A scalable event management platform built for university events with registrations, submissions, dashboards, and a real-time auction system.
+
+**Highlights**
+- ⚡ Real-time WebSocket auction
+- 👥 Role-based dashboards
+- 📈 4500+ visits
+- 📝 500+ registrations
+
+**Tech**
+`React` `Node.js` `PostgreSQL` `Supabase`
+
+[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_REPO)
+
+</td>
+
+<td width="50%">
+
+### 🚀 Hack4Bihar
+National hackathon website engineered to handle high traffic and thousands of registrations.
+
+**Highlights**
+- 🚀 25K+ visitors
+- 📝 5000+ registrations
+- ⚡ Optimized performance
+- 📱 Responsive design
+
+**Tech**
+`Next.js` `React` `Node.js`
+
+[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_REPO)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 **Featured Projects**
+# 🏆 Highlights
 
-- 🧠 **InnoPlanAI** – Agentic AI platform for startup ideation & strategy generation.  
-- 💬 **Sahayak** – AI-driven IT support automation platform unifying multiple channels via NLP.  
-- 🏛️ **e-Nivaran** – Civic-tech platform using YOLOv8, NLP & geo-tagging for smart issue resolution.  
-- 🌱 **ROOTS** – AI-integrated sustainability platform promoting eco-friendly actions.  
-
-*(More on → [utkarshsrivastava.me](https://utkarshsrivastava.tech))*
-
----
-
-## 🌐 **Let’s Connect**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarshsrivastava.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshsri1139)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/utkarshsri1139)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshsri1139@gmail.com)
+- 🥇 **IEEE YESIST12 2025 Global Finalist** — Top 30 among 3000+ teams worldwide.
+- 📄 **Published IEEE Research Paper** on Edge AI for rural classrooms.
+- 🏛 **Hack4Delhi 2026 Finalist** — Selected among the Top 30 teams and showcased at Bharat Mandapam.
+- 💻 **IEEEXtreme 19.0** — Ranked in the Top 10% globally.
+- 🌟 Built platforms serving **25K+ users**, **5K+ registrations**, and multiple university communities.
 
 ---
 
-## ✍️ **Dev Quote of the Day**
+# 📊 GitHub Analytics
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshsri1139&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=utkarshsri1139&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsri1139&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🎯 **Profile Tagline**
-> *Building Intelligent, Scalable & Sustainable Systems with Code & Creativity ⚡*
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsri1139&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🚧 Currently Building
+
+### 📌 Growth OS
+An AI-native personal engineering operating system to track learning, projects, DSA, internships, and long-term career growth.
+
+**Exploring**
+- AI Agents
+- Workflow Automation
+- Knowledge Management
+- Developer Productivity
+
+---
+
+### 📌 Event Portal v2
+
+Redesigning the architecture of the Event Portal to support larger events with better scalability and performance.
+
+**Tech Stack**
+
+`Next.js` • `Hono` • `Supabase` • `Cloudflare Workers` • `PostgreSQL`
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,redis,linux,aws,githubactions&theme=dark"/>
+
+</div>
+
+Currently diving deeper into:
+
+- 🏗️ System Design
+- ☁️ Cloud Computing
+- 🐳 Docker & Containerization
+- ⚡ High-performance Backend Systems
+- 🔐 Authentication & Security
+- 🤖 AI Engineering
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:utkarshsri1139@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/utkarshsri1139">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://utkarshsrivastava.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/utkarshsri1139">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+*"I love building software that is fast, scalable, and genuinely useful."*
+
+If you have an interesting project, internship opportunity, or just want to connect, feel free to reach out!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:7f5af0"/>
+
+</div>
