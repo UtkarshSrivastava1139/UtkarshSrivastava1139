@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://utkarshsrivastava.vercel.app">
+<a href="https://utkarshsrivastava.tech">
 <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/utkarshsri1139">
+<a href="https://github.com/utkarshsrivastava1139">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -153,7 +153,7 @@ A scalable event management platform built for university events with registrati
 **Tech**
 `React` `Node.js` `PostgreSQL` `Supabase`
 
-[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_REPO)
+[🔗 Live Demo](https://events.edcjssun.com/) • [📂 Repository](YOUR_REPO)
 
 </td>
 
@@ -193,15 +193,15 @@ National hackathon website engineered to handle high traffic and thousands of re
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshsri1139&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UtkarshSrivastava1139&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=utkarshsri1139&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=UtkarshSrivastava1139&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsri1139&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSrivastava1139&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -211,7 +211,7 @@ National hackathon website engineered to handle high traffic and thousands of re
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsri1139&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshSrivastava1139&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
@@ -271,11 +271,11 @@ Currently diving deeper into:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://utkarshsrivastava.vercel.app">
+<a href="https://utkarshsrivastava.tech">
 <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/utkarshsri1139">
+<a href="https://github.com/utkarshsrivastava1139">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
